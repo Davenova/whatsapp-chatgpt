@@ -5,7 +5,7 @@ services:
         read_only: true
         image: ghcr.io/askrella/whatsapp-chatgpt:master
         environment:
-            OPENAI_API_KEY: ""
+            OPENAI_API_KEY: "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"
             OPENAI_GPT_MODEL: ""
             PREFIX_ENABLED: ""
             SERPAPI_API_KEY: ""
